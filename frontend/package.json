@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "lucide-vue-next": "^0.294.0",
     "three": "^0.169.0",
     "vanta": "^0.5.24",
     "vue": "^3.2.13",
